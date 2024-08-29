@@ -36,5 +36,3 @@
 - ex:
   - :q to quit
   - :w to save
-
-testing lazy git commit
